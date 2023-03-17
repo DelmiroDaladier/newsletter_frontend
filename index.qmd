@@ -1,0 +1,22 @@
+---
+comments: false
+page-layout: full
+title: Interactive AI CDT Newsletter
+title-block-banner: true
+
+---
+# Posts 
+
+### [Model-tuning Via Prompts Makes NLP Models Adversarially Robust](https://delmirodaladier.github.io/icr/content/model-tuning-via-prompts-makes-nlp-models-adversarially-robust)
+
+In recent years, NLP practitioners have converged on the following practice:(i) import an off-the-shelf pretrained (masked) language model; (ii) append amultilayer perceptron atop the CLS token's hidden representation (with randomlyinitialized weights); and (iii) fine-tune the entire model on a downstream task(MLP). This procedure has produced massive gains on standard NLP benchmarks,but these models remain brittle, even to mild adversarial perturbations, suchas word-level synonym substitutions. In this work, we demonstrate surprisinggains in adversarial robustness enjoyed by Model-tuning Via Prompts (MVP), analternative method of adapting to downstream tasks. Rather than modifying themodel (by appending an MLP head), MVP instead modifies the input (by appendinga prompt template). Across three classification datasets, MVP improvesperformance against adversarial word-level synonym substitutions by an averageof 8% over standard methods and even outperforms adversarial training-basedstate-of-art defenses by 3.5%. By combining MVP with adversarial training, weachieve further improvements in robust accuracy while maintaining cleanaccuracy. Finally, we conduct ablations to investigate the mechanism underlyingthese gains. Notably, we find that the main causes of vulnerability of MLP canbe attributed to the misalignment between pre-training and fine-tuning tasks,and the randomly initialized MLP parameters. Code is available atthis https URL
+
+# Conferences 
+
+### [Home| Artificial Intelligence and Statistics Conference](http://aistats.org/aistats2023/)
+
+- Location:Spain
+
+- Start date:2023-04-25
+
+- End date:2023-04-27
