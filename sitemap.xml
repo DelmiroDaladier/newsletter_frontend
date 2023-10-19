@@ -1,19 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://github.com/DelmiroDaladier/newsletter_frontend/about.html</loc>
-    <lastmod>2023-10-11T11:30:09.145Z</lastmod>
+    <loc>https://github.com/DelmiroDaladier/newsletter_frontend/index.html</loc>
+    <lastmod>2023-10-19T15:36:43.982Z</lastmod>
   </url>
   <url>
-    <loc>https://github.com/DelmiroDaladier/newsletter_frontend/newsletter_issues/issue_13_10_23/index.html</loc>
-    <lastmod>2023-10-11T11:30:08.461Z</lastmod>
+    <loc>https://github.com/DelmiroDaladier/newsletter_frontend/newsletter_issues/cdt_weekly_newsletter-19-10-2023/index.html</loc>
+    <lastmod>2023-10-19T15:36:43.234Z</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/DelmiroDaladier/newsletter_frontend/about.html</loc>
+    <lastmod>2023-10-19T15:36:42.226Z</lastmod>
   </url>
   <url>
     <loc>https://github.com/DelmiroDaladier/newsletter_frontend/newsletter_issues/CDT_Weekly_Newsletter/index.html</loc>
-    <lastmod>2023-10-11T11:30:07.765Z</lastmod>
+    <lastmod>2023-10-19T15:36:42.906Z</lastmod>
   </url>
   <url>
-    <loc>https://github.com/DelmiroDaladier/newsletter_frontend/index.html</loc>
-    <lastmod>2023-10-11T11:30:08.849Z</lastmod>
+    <loc>https://github.com/DelmiroDaladier/newsletter_frontend/newsletter_issues/issue_13_10_23/index.html</loc>
+    <lastmod>2023-10-19T15:36:43.574Z</lastmod>
   </url>
 </urlset>
