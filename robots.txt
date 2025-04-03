@@ -1,1 +1,1 @@
-Sitemap: https://github.com/DelmiroDaladier/newsletter_frontend/sitemap.xml
+Sitemap: https://DelmiroDaladier.github.io/newsletter_frontend/sitemap.xml
