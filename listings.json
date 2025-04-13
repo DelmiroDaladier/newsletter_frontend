@@ -4,5 +4,13 @@
     "items": [
       "/newsletter_issues/cdt_weekly_newsletter-03-04-2025/index.html"
     ]
+  },
+  {
+    "listing": "/previous_issues.html",
+    "items": [
+      "/about.html",
+      "/index.html",
+      "/newsletter_issues/cdt_weekly_newsletter-03-04-2025/index.html"
+    ]
   }
 ]
