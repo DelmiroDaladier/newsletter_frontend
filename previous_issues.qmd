@@ -1,0 +1,4 @@
+---
+title: "Previous Issues"
+listing: newsleter_issues/
+---

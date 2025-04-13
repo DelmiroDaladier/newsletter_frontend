@@ -8,6 +8,20 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
+  sidebar:
+      style: "docked"
+      logo: "./images/user_image.png"
+      search: true
+      collapse-level: 2
+      contents:
+        - icon: github
+          text: Github
+          url: https://github.com/DelmiroDaladier/newsletter_frontend
+        - text: Pro-AI CDT
+          url: https://www.bristol.ac.uk/cdt/practice-oriented-ai/
+        - text: Previous Issues
+          url: previous_issues.qmd
+
 
 format:
   html:
