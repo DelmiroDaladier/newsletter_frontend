@@ -1,16 +1,7 @@
 ---
-listing:
-  id: content_listings
-  contents: newsletter_issues
-  sort: "date desc"
-  type: default
-  categories: true
-  sort-ui: false
-  filter-ui: false
-  feed: false
-  max-description-length: 250
 comments: false
 page-layout: full
-title: Interactive AI CDT Newsletter
+title: Pro AI CDT Newsletter
 title-block-banner: true
 ---
+<h2>CDT Weekly Newsletter</h2><br><ul><li>newsletter</li></ul><p>Welcome to this week's issue of the newsletter.</p><br><br><b>newsletter</b><br><p>newsletternewsletternewsletternewsletternewsletternewsletternewsletternewsletternewsletternewsletter</p><br><br><h2>Forthcoming Calendar of Events</h2><br><br>

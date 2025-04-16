@@ -1,5 +1,6 @@
 ---
 title: "About"
+title-block-banner: true
 ---
 
 This is the Interactive AI CDT Newsletter.

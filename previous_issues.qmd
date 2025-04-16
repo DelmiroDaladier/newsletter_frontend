@@ -1,4 +1,15 @@
 ---
 title: "Previous Issues"
-listing: newsleter_issues/
+listing:
+  id: content_listings
+  contents: newsletter_issues
+  sort: "date desc"
+  type: default
+  categories: true
+  sort-ui: false
+  filter-ui: false
+  feed: false
+  max-description-length: 250
+page-layout: full
+title-block-banner: true
 ---
