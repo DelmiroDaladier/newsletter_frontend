@@ -1,23 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://DelmiroDaladier.github.io/newsletter_frontend/previous_issues.html</loc>
-    <lastmod>2025-04-16T10:26:01.866Z</lastmod>
-  </url>
-  <url>
-    <loc>https://DelmiroDaladier.github.io/newsletter_frontend/newsletter_issues/cdt_weekly_newsletter-03-04-2025/index.html</loc>
-    <lastmod>2025-04-16T10:26:01.866Z</lastmod>
-  </url>
-  <url>
     <loc>https://DelmiroDaladier.github.io/newsletter_frontend/index.html</loc>
-    <lastmod>2025-04-16T10:26:01.863Z</lastmod>
-  </url>
-  <url>
-    <loc>https://DelmiroDaladier.github.io/newsletter_frontend/about.html</loc>
-    <lastmod>2025-04-16T10:26:01.863Z</lastmod>
+    <lastmod>2025-04-16T10:32:11.490Z</lastmod>
   </url>
   <url>
     <loc>https://DelmiroDaladier.github.io/newsletter_frontend/newsletter_issues/cdt_weekly_newsletter-16-04-2025.html</loc>
-    <lastmod>2025-04-16T10:26:01.866Z</lastmod>
+    <lastmod>2025-04-16T10:32:11.705Z</lastmod>
+  </url>
+  <url>
+    <loc>https://DelmiroDaladier.github.io/newsletter_frontend/newsletter_issues/cdt_weekly_newsletter-03-04-2025/index.html</loc>
+    <lastmod>2025-04-16T10:32:11.901Z</lastmod>
+  </url>
+  <url>
+    <loc>https://DelmiroDaladier.github.io/newsletter_frontend/newsletter_issues/cdt_weekly_newsletter-14-04-2025/index.html</loc>
+    <lastmod>2025-04-16T10:32:12.107Z</lastmod>
+  </url>
+  <url>
+    <loc>https://DelmiroDaladier.github.io/newsletter_frontend/about.html</loc>
+    <lastmod>2025-04-16T10:32:12.308Z</lastmod>
+  </url>
+  <url>
+    <loc>https://DelmiroDaladier.github.io/newsletter_frontend/previous_issues.html</loc>
+    <lastmod>2025-04-16T10:32:12.593Z</lastmod>
   </url>
 </urlset>
